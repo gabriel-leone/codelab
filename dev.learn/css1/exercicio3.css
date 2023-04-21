@@ -1,0 +1,16 @@
+#title {
+  color: black;
+  background-color: bisque;
+  text-align: center;
+}
+
+#picture {
+  border: 10px solid black;
+  border-style: dashed;
+}
+
+#paragraph {
+  border: 10px solid bisque;
+  text-align: center;
+
+}

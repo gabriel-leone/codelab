@@ -1,0 +1,25 @@
+#titulo {
+  color: #5EC8AE;
+  text-align: center;
+}
+
+.paragrafo {
+  border: 5px solid #5EC8AE;
+  width: fit-content;
+}
+
+#paragrafo1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+#autor {
+  border: 5px solid black;
+  border-radius: 50px;
+  color: #5EC8AE;
+  margin: auto;
+  padding: 10px;
+  width: fit-content;
+}
