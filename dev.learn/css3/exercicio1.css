@@ -1,0 +1,34 @@
+#titulo {
+  color: #5EC8AE;
+  text-align: center;
+}
+
+.paragrafo {
+  border: 5px solid #5EC8AE;
+  width: fit-content;
+  height: fit-content;
+  justify-content: center;
+}
+
+
+#paragrafo1 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-items: center;
+  align-items: center;
+
+}
+
+#corpo {
+  display: grid;
+  grid-template-rows: 20% 70% 10%;
+}
+
+#autor {
+  border: 5px solid black;
+  border-radius: 50px;
+  color: #5EC8AE;
+  margin: auto;
+  padding: 10px;
+  width: fit-content;
+}
