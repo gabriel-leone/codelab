@@ -1,0 +1,44 @@
+#titulo {
+  color: #5EC8AE;
+  text-align: center;
+  transition: color 1s ease-in-out;
+}
+
+#titulo:hover {
+  color: yellow;
+}
+
+.red:hover {
+  transition: color 0.3s ease-in-out;
+  color: red;
+}
+
+.paragrafo {
+  border: 5px solid #5EC8AE;
+  width: fit-content;
+  height: fit-content;
+  justify-content: center;
+}
+
+
+#paragrafo1 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  justify-items: center;
+  align-items: center;
+
+}
+
+#corpo {
+  display: grid;
+  grid-template-rows: 20% 70% 10%;
+}
+
+#autor {
+  border: 5px solid black;
+  border-radius: 50px;
+  color: #5EC8AE;
+  margin: auto;
+  padding: 10px;
+  width: fit-content;
+}
